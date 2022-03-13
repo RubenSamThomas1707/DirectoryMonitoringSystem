@@ -1,0 +1,6 @@
+Logging changed from newLogFile.log
+The map has been updated with the new values.
+"SIGINT" - INTERRUPT SIGNAL RECEIVED!
+Closing .log files.
+Cleaning .pid file.
+Daemon Exited...
